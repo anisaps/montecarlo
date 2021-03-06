@@ -135,7 +135,7 @@ try:
     # Tampilan Index
     data_file = st.file_uploader("Upload CSV", type=['csv'])
     data = exploredata(data_file.name)
-    st.write("Data yang digunakan")
+    st.write("Data Penjualan Handphone yang digunakan")
     st.write(data)
 
     jumlah = jumlah(data['Frekuensi'])
