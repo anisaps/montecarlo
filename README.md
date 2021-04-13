@@ -8,5 +8,5 @@ List of Environment :
 How to run the application :
 1. Open terminal with prompt in directory of application
 2. Type in the terminal 
-   ``` streamlit run fuzzy.py ```
+   ``` streamlit run main.py ```
 3. Copy url ``` http://localhost:8501 ``` and paste it in your browser
